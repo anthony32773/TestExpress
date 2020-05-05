@@ -1,0 +1,24 @@
+{
+  "name": "testexpress",
+  "version": "1.0.0",
+  "description": "Test Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthony32773/TestExpress.git"
+  },
+  "author": "Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthony32773/TestExpress/issues"
+  },
+  "homepage": "https://github.com/anthony32773/TestExpress#readme",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
